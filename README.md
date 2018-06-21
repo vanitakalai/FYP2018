@@ -18,7 +18,6 @@ This repository contains all the code used in this project along with the final 
 * `FaultTolerantRPP` -> NFTC, FTC and FFTC design for H infinity with RPP method
 * `binarySearchTheta` -> NFTC, FTC and FFTC design for binary search for theta with RPP method
 
-All files designed for loop testing
 * `pConstrainedLS` -> NFTC, FTC and FFTC design for H infinity with LS method with p constraints
 * `pConstrainedRPP` -> NFTC, FTC and FFTC design for H infinity with RPP method with p constraints
 * `binarySearchThetawithP` -> NFTC, FTC and FFTC design for binary search for theta with RPP method with p constraints
